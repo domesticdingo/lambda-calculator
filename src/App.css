@@ -20,3 +20,27 @@
     padding-right: 8%;
     font-size: 5.0rem;
   }
+
+  .numberButton {
+    border: 2px solid black;
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+  }
+
+  .operatorButton {
+    border: 2px solid black;
+    padding: 15px;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+  }
+
+  .specialButton {
+    border: 2px solid black;
+    padding: 15px;
+    background-color: limegreen;
+    color: white;
+    border-radius: 10px;
+  }
